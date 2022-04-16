@@ -1,1 +1,1 @@
-# php-oop-hinting-type
+# PHP OOP Hinting Type
